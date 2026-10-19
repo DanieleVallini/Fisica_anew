@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "e52fa404cd37f117",
+    "type": "split",
+    "children": [
+      {
+        "id": "d641002905b3ad34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cab47e0bde582883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Teoria/01 - Meccanica/2 - Moto circolare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Moto circolare"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f29f71ba52d7d6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d71441b20425381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895f19e79dc49ba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "bfd8774517898799",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "3ec2521b87446dfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e080808ea0e5fb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c42762db9234545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743f4ca13d33a232",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "9316242cd6e5b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "1eb065e949078fb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "96a32525df0ed471",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "f58ed6e3a9d92a5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benvenuto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "cab47e0bde582883",
+  "lastOpenFiles": [
+    "01 - Teoria/01 - Meccanica/3 - Principi della dinamica.md",
+    "01 - Teoria/01 - Meccanica/2 - Moto circolare.md",
+    "01 - Teoria/01 - Meccanica/1 - Cinematica.md",
+    "Immagine ChatGPT 19 ott 2026, 16_28_06-3.png",
+    "06 - Risorse/Allegati/MC/Immagine ChatGPT 19 ott 2026, 16_28_07-4.png",
+    "06 - Risorse/Allegati/MC/Immagine ChatGPT 19 ott 2026, 16_28_05-2.png",
+    "06 - Risorse/Allegati/MC/Immagine ChatGPT 19 ott 2026, 16_28_03-1.png",
+    "06 - Risorse/Allegati/MC",
+    "06 - Risorse/Allegati/Infografica di cinematica_ concetti e grafici.png",
+    "06 - Risorse/Allegati/Infografica didattica sulla cinematica in italiano.png",
+    "06 - Risorse/Allegati/Infografica sulla cinematica e il moto.png",
+    "00 - Dashboard/Indice.md",
+    "01 - Teoria/01 - Meccanica/Urti.md",
+    "01 - Teoria/01 - Meccanica/Gravitazione.md",
+    "01 - Teoria/01 - Meccanica/Momento angolare.md",
+    "01 - Teoria/01 - Meccanica/Piano inclinato e attrito.md",
+    "01 - Teoria/01 - Meccanica/Lavoro energia e potenza.md",
+    "01 - Teoria/01 - Meccanica/Impulso e quantità di moto.md",
+    "01 - Teoria/01 - Meccanica/Equilibrio delle forze.md",
+    "01 - Teoria/01 - Meccanica/Forza elastica.md",
+    "03 - Esami/Esempio 1.md",
+    "03 - Esami/Esempio 2.md",
+    "03 - Esami/Gennaio 2024.md",
+    "99 - Templates/Template esercizio.md",
+    "01 - Meccanica",
+    "00 - Indice",
+    "Benvenuto.md"
+  ]
+}
