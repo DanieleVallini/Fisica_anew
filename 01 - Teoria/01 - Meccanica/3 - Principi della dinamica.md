@@ -12,7 +12,7 @@ La dinamica classica si basa sui **tre principi di Newton**:
 1. Principio d'inerzia.
 2. Principio fondamentale della dinamica.
 3. Principio di azione e reazione.
-
+![[01_tre_principi_newton.png]]
 Questi principi permettono di descrivere il movimento dei corpi quando sono soggetti a una o più forze.
 
 ---
@@ -36,6 +36,7 @@ $$
 
 Una forza di 1 N produce un'accelerazione di 1 m/s² su un corpo di massa 1 kg, se rappresenta la forza risultante agente sul corpo.
 
+![[02_concetto_di_forza.png]]
 ### Forze di contatto e forze a distanza
 
 Le forze possono essere suddivise in due categorie.
@@ -59,6 +60,7 @@ Esempi:
 - Forza elettrica.
 - Forza magnetica.
 
+![[03_tipologie_di_forza.png]]
 ---
 
 ## Risultante delle forze
@@ -126,11 +128,14 @@ $$
 $$
 
 Queste formule assumono che l'angolo sia misurato rispetto all'asse orizzontale positivo; i segni dipendono dal verso delle componenti.
-
 La scomposizione permette di studiare separatamente il moto lungo i diversi assi.
+![[04_risultante_forze 1.png]]
 
----
+![[05_scomposizione_forze 1.png]]
 
+![[06_esempio_scomposizione.png]]
+
+![[a_clean_educational_infographic_poster_in_italian.png]]
 ## Primo principio della dinamica — Principio d'inerzia
 
 Il **primo principio di Newton** afferma che:
@@ -535,7 +540,19 @@ $$
 \boxed{T=mg}
 $$
 
-Se il corpo accelera verticalmente, è necessario utilizzare il secondo principio con i segni appropriati.
+Se il corpo accelera, la tensione non è più necessariamente uguale al peso. Bisogna calcolarla usando il secondo principio di Newton.
+
+Esempio: Hai un corpo di massa $m=6 \text{kg}$ appeso a una fune.
+
+Su di esso agiscono sempre due forze:
+
+![[Pasted image 20261021004434.png]]
+
+La tensione $T$ tira il corpo verso l'alto, la forza peso $P$ tira il corpo verso il basso.
+La forza peso vale:$$P = 6 \cdot 9,81 = 58,86\;N$$
+Si applica quindi il secondo principio di Newton, che dice che **la risultante di tutte le forze è uguale** **a** $m\cdot a$$$\sum F = m\cdot a$$
+Scegliendo il verso positivo verso l'alto, la tensione è positiva e il peso è negativo. L'equazione da cui partire è quindi$$\boxed{T - mg = m\cdot a}$$
+
 
 ### Corpo sospeso e forza orizzontale
 
