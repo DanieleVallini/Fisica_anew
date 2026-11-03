@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Flusso attraverso una superficie">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Flusso attraverso una superficie</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Conta la componente di E parallela alla normale alla superficie: Φ = EA cos θ.</text>
+<rect x="45" y="117" width="263" height="252" rx="10" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="176" y="153" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#19344D">Normale parallela a E</text>
+<line x1="81" y1="243" x2="261" y2="243" stroke="#267CB3" stroke-width="3" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="172.0" y1="181.0" x2="172.0" y2="305.0" stroke="#56718B" stroke-width="5" stroke-linecap="round"/>
+<line x1="172" y1="243" x2="257.0" y2="243.0" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<text x="177" y="342" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">Φ = +EA</text>
+<rect x="325" y="117" width="263" height="252" rx="10" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="456" y="153" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#19344D">Normale inclinata di 60°</text>
+<line x1="361" y1="243" x2="541" y2="243" stroke="#267CB3" stroke-width="3" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="398.3064249653648" y1="212.0" x2="505.6935750346352" y2="274.0" stroke="#56718B" stroke-width="5" stroke-linecap="round"/>
+<line x1="452" y1="243" x2="494.5" y2="169.38784067832273" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<text x="457" y="342" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">Φ = +EA/2</text>
+<rect x="605" y="117" width="263" height="252" rx="10" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="736" y="153" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#19344D">Normale opposta a E</text>
+<line x1="641" y1="243" x2="821" y2="243" stroke="#267CB3" stroke-width="3" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="732.0" y1="305.0" x2="732.0" y2="181.0" stroke="#56718B" stroke-width="5" stroke-linecap="round"/>
+<line x1="732" y1="243" x2="647.0" y2="243.0" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<text x="737" y="342" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">Φ = −EA</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Superfici equipotenziali di una carica +Q">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Superfici equipotenziali di una carica +Q</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Cerchi concentrici (sezione di sfere): ogni cerchio ha V costante.</text>
+<circle cx="315" cy="243" r="39" fill="#D65D5F"/>
+<text x="315" y="254" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="315" cy="243" r="57" fill="none" stroke="#159B91" stroke-width="2.2"/>
+<circle cx="315" cy="243" r="95" fill="none" stroke="#159B91" stroke-width="2.2"/>
+<circle cx="315" cy="243" r="125" fill="none" stroke="#159B91" stroke-width="2.2"/>
+<line x1="315.0" y1="195.0" x2="315.0" y2="129.0" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="348.94112549695427" y1="209.05887450304573" x2="395.61017305526644" y2="162.38982694473358" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="363.0" y1="243.0" x2="429.0" y2="243.0" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="348.94112549695427" y1="276.94112549695427" x2="395.61017305526644" y2="323.6101730552664" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="315.0" y1="291.0" x2="315.0" y2="357.0" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="281.05887450304573" y1="276.94112549695427" x2="234.38982694473358" y2="323.61017305526644" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="267.0" y1="243.0" x2="201.0" y2="243.0" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="281.05887450304573" y1="209.05887450304573" x2="234.38982694473356" y2="162.38982694473358" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<rect x="563" y="134" width="280" height="216" rx="11" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="590" y="182" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#19344D">Vicino alla carica:</text>
+<text x="590" y="218" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#D65D5F">V maggiore</text>
+<text x="590" y="268" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#19344D">Lontano dalla carica:</text>
+<text x="590" y="304" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#159B91">V minore (ma &gt; 0)</text>
+</svg>

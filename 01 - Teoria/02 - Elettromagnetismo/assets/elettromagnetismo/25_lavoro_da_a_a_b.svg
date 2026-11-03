@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Lavoro elettrico: carica positiva da A a B">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Lavoro elettrico: carica positiva da A a B</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Per q &gt; 0, spostarsi da potenziale alto a basso produce lavoro del campo positivo.</text>
+<rect x="69" y="117" width="750" height="246" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<line x1="144" y1="231" x2="740" y2="231" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<circle cx="214" cy="231" r="30" fill="#D65D5F"/>
+<text x="214" y="240" font-family="DejaVu Sans, sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="695" cy="231" r="8" fill="#19344D"/>
+<line x1="273" y1="270" x2="654" y2="270" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<text x="452" y="299" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#D65D5F">Spostamento A → B</text>
+<text x="214" y="178" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" text-anchor="middle" fill="#19344D">A: V alto</text>
+<text x="695" y="178" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" text-anchor="middle" fill="#19344D">B: V basso</text>
+<text x="452" y="345" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">Lcampo = q (V_A − V_B) &gt; 0</text>
+</svg>

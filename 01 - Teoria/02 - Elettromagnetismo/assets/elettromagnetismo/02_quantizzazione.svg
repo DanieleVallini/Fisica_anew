@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="La carica è quantizzata">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">La carica è quantizzata</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Carica elementare e = 1,602 × 10⁻¹⁹ C; q = n·e con n intero.</text>
+<rect x="53" y="116" width="354" height="237" rx="10" fill="#E3F3FE" stroke="#D5E5EE" stroke-width="1.5"/>
+<rect x="437" y="116" width="410" height="237" rx="10" fill="#FFF3E1" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="230" y="153" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Unità fondamentale</text>
+<circle cx="163" cy="227" r="33" fill="#267CB3"/>
+<text x="163" y="239" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<circle cx="295" cy="227" r="33" fill="#D65D5F"/>
+<text x="295" y="239" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<text x="163" y="293" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#267CB3">−e</text>
+<text x="295" y="293" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#D65D5F">+e</text>
+<text x="642" y="155" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#19344D">Esempio: 3 elettroni acquistati</text>
+<circle cx="562" cy="226" r="29" fill="#267CB3"/>
+<text x="562" y="238" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<circle cx="642" cy="226" r="29" fill="#267CB3"/>
+<text x="642" y="238" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<circle cx="722" cy="226" r="29" fill="#267CB3"/>
+<text x="722" y="238" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="642" y="310" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#267CB3">Δq = −3e</text>
+</svg>

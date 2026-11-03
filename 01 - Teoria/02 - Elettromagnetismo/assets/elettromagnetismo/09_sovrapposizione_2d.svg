@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Sovrapposizione vettoriale nel piano">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Sovrapposizione vettoriale nel piano</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">La risultante si calcola sommando separatamente le componenti x e y.</text>
+<line x1="155" y1="292" x2="625" y2="292" stroke="#56718B" stroke-width="2" stroke-linecap="round" marker-end="url(#a-muted)"/>
+<line x1="362" y1="342" x2="362" y2="109" stroke="#56718B" stroke-width="2" stroke-linecap="round" marker-end="url(#a-muted)"/>
+<text x="639" y="297" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#19344D">x</text>
+<text x="370" y="107" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#19344D">y</text>
+<circle cx="362" cy="292" r="22" fill="#D65D5F"/>
+<text x="362" y="304" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="552" cy="292" r="25" fill="#D65D5F"/>
+<text x="552" y="304" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="362" cy="137" r="25" fill="#267CB3"/>
+<text x="362" y="149" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="365" y="322" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#19344D">q₀</text>
+<text x="552" y="334" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">qA</text>
+<text x="393" y="145" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#19344D">qB</text>
+<line x1="333" y1="292" x2="211" y2="292" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="362" y1="266" x2="362" y2="170" stroke="#267CB3" stroke-width="4" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="354" y1="284" x2="210" y2="168" stroke="#159B91" stroke-width="5" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<text x="220" y="278" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#D65D5F">Fx = −0,200 N</text>
+<text x="380" y="205" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#267CB3">Fy = +0,169 N</text>
+<rect x="651" y="147" width="193" height="172" rx="10" fill="#E7F6F3" stroke="#B7DED8" stroke-width="1.5"/>
+<text x="748" y="190" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#159B91">Risultante</text>
+<text x="748" y="234" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#19344D">|F| ≈ 0,262 N</text>
+<text x="748" y="271" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">alto-sinistra</text>
+</svg>

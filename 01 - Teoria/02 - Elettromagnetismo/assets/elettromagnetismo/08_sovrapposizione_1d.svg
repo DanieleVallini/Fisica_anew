@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Sovrapposizione lungo un asse">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Sovrapposizione lungo un asse</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Le due forze sulla carica centrale sono entrambe dirette verso destra.</text>
+<line x1="83" y1="248" x2="810" y2="248" stroke="#56718B" stroke-width="2" stroke-linecap="round" marker-end="url(#a-muted)"/>
+<circle cx="172" cy="232" r="34" fill="#D65D5F"/>
+<text x="172" y="244" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<text x="172" y="299" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">A: +2 μC</text>
+<circle cx="444" cy="232" r="34" fill="#D65D5F"/>
+<text x="444" y="244" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<text x="444" y="299" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">0: +1 μC</text>
+<circle cx="721" cy="232" r="34" fill="#267CB3"/>
+<text x="721" y="244" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="721" y="299" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">B: −4 μC</text>
+<line x1="479" y1="191" x2="605" y2="191" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="479" y1="157" x2="741" y2="157" stroke="#267CB3" stroke-width="4" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<text x="548" y="180" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D65D5F">+0,200 N</text>
+<text x="651" y="145" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#267CB3">+0,400 N</text>
+<rect x="297" y="329" width="299" height="53" rx="11" fill="#E7F6F3" stroke="#B7DED8" stroke-width="1.5"/>
+<text x="447" y="362" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">F totale = +0,600 N</text>
+</svg>

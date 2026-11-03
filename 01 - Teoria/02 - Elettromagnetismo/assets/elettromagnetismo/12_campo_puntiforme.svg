@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Campo di una carica puntiforme">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Campo di una carica puntiforme</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Da una carica positiva il campo esce; verso una carica negativa il campo entra.</text>
+<rect x="60" y="118" width="355" height="243" rx="11" fill="#FFF3E1" stroke="#D5E5EE" stroke-width="1.5"/>
+<circle cx="236" cy="238" r="35" fill="#D65D5F"/>
+<text x="236" y="249" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<text x="236" y="343" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="400" text-anchor="middle" fill="#19344D">Carica +Q</text>
+<line x1="291.0" y1="238.0" x2="324.0" y2="238.0" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="274.8908729652601" y1="276.8908729652601" x2="298.2253967444162" y2="300.2253967444162" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="236.0" y1="293.0" x2="236.0" y2="326.0" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="197.10912703473988" y1="276.8908729652601" x2="173.77460325558383" y2="300.2253967444162" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="181.0" y1="238.0" x2="148.0" y2="238.0" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="197.10912703473988" y1="199.10912703473988" x2="173.7746032555838" y2="175.77460325558383" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="236.0" y1="183.0" x2="235.99999999999997" y2="150.0" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="274.8908729652601" y1="199.10912703473988" x2="298.2253967444162" y2="175.7746032555838" stroke="#D65D5F" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-red)"/>
+<rect x="484" y="118" width="355" height="243" rx="11" fill="#E3F3FE" stroke="#D5E5EE" stroke-width="1.5"/>
+<circle cx="660" cy="238" r="35" fill="#267CB3"/>
+<text x="660" y="249" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="660" y="343" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="400" text-anchor="middle" fill="#19344D">Carica −Q</text>
+<line x1="749.0" y1="238.0" x2="711.0" y2="238.0" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="722.9325035256028" y1="300.9325035256027" x2="696.0624458405139" y2="274.06244584051393" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="660.0" y1="327.0" x2="660.0" y2="289.0" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="597.0674964743973" y1="300.9325035256027" x2="623.9375541594861" y2="274.06244584051393" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="571.0" y1="238.0" x2="609.0" y2="238.0" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="597.0674964743972" y1="175.06749647439727" x2="623.9375541594861" y2="201.93755415948607" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="660.0" y1="149.0" x2="660.0" y2="187.0" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="722.9325035256027" y1="175.06749647439727" x2="696.0624458405139" y2="201.93755415948607" stroke="#267CB3" stroke-width="3.2" stroke-linecap="round" marker-end="url(#a-blue)"/>
+</svg>

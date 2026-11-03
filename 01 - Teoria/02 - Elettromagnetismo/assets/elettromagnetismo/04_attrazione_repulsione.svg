@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Coulomb: attrazione e repulsione">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Coulomb: attrazione e repulsione</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">La forza agisce sulla retta che congiunge le cariche.</text>
+<rect x="49" y="113" width="391" height="248" rx="12" fill="#FFF3E1" stroke="#D5E5EE" stroke-width="1.5"/>
+<rect x="460" y="113" width="391" height="248" rx="12" fill="#E3F3FE" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="245" y="153" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Stesso segno → repulsione</text>
+<circle cx="174" cy="240" r="35" fill="#D65D5F"/>
+<text x="174" y="252" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="310" cy="240" r="35" fill="#D65D5F"/>
+<text x="310" y="252" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<line x1="130" y1="240" x2="78" y2="240" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="352" y1="240" x2="409" y2="240" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<text x="246" y="321" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">Le forze puntano verso l’esterno</text>
+<text x="660" y="153" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Segni opposti → attrazione</text>
+<circle cx="588" cy="240" r="35" fill="#D65D5F"/>
+<text x="588" y="252" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="736" cy="240" r="35" fill="#267CB3"/>
+<text x="736" y="252" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<line x1="632" y1="240" x2="672" y2="240" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<line x1="693" y1="240" x2="654" y2="240" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<text x="660" y="321" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">Le forze puntano l’una verso l’altra</text>
+</svg>

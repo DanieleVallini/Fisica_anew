@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Scegliere la superficie gaussiana">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Scegliere la superficie gaussiana</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">La simmetria permette di estrarre E dall’integrale del flusso.</text>
+<rect x="49" y="115" width="265" height="253" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="181" y="155" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="400" text-anchor="middle" fill="True">Sfera</text>
+<text x="181" y="345" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">Carica puntiforme o sfera</text>
+<rect x="335" y="115" width="265" height="253" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="467" y="155" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="400" text-anchor="middle" fill="True">Cilindro</text>
+<text x="467" y="345" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">Filo rettilineo infinito</text>
+<rect x="621" y="115" width="265" height="253" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="753" y="155" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="400" text-anchor="middle" fill="True">Pillbox</text>
+<text x="753" y="345" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">Piano infinito carico</text>
+<circle cx="181" cy="243" r="79" fill="#EAF6FC" stroke="#159B91" stroke-width="2.8"/>
+<circle cx="181" cy="243" r="22" fill="#D65D5F"/>
+<text x="181" y="254" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<line x1="214.0" y1="243.0" x2="253.0" y2="243.0" stroke="#D65D5F" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="197.5" y1="271.5788383248865" x2="217.0" y2="305.3538290724796" stroke="#D65D5F" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="164.5" y1="271.5788383248865" x2="145.0" y2="305.3538290724796" stroke="#D65D5F" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="148.0" y1="243.0" x2="109.0" y2="243.0" stroke="#D65D5F" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="164.5" y1="214.42116167511352" x2="144.99999999999997" y2="180.64617092752044" stroke="#D65D5F" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="197.5" y1="214.42116167511352" x2="217.0" y2="180.64617092752042" stroke="#D65D5F" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<rect x="411" y="180" width="114" height="128" rx="18" fill="#EAF6FC" stroke="#159B91" stroke-width="2.5"/>
+<path d="M 411 180 Q 468 149 525 180" fill="none" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 411 308 Q 468 339 525 308" fill="none" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="468" y1="157" x2="468" y2="330" stroke="#D65D5F" stroke-width="5" stroke-linecap="round"/>
+<text x="472" y="173" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#D65D5F">+</text>
+<line x1="525" y1="205" x2="552" y2="205" stroke="#267CB3" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="525" y1="242" x2="552" y2="242" stroke="#267CB3" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="525" y1="279" x2="552" y2="279" stroke="#267CB3" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<rect x="714" y="191" width="80" height="107" rx="13" fill="#EAF6FC" stroke="#159B91" stroke-width="2.5"/>
+<path d="M 714 191 Q 754 168 794 191" fill="none" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 714 298 Q 754 321 794 298" fill="none" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="647" y1="244" x2="855" y2="244" stroke="#D65D5F" stroke-width="5" stroke-linecap="round"/>
+<line x1="685" y1="235" x2="685" y2="199" stroke="#267CB3" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="685" y1="252" x2="685" y2="288" stroke="#267CB3" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="826" y1="235" x2="826" y2="199" stroke="#267CB3" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<line x1="826" y1="252" x2="826" y2="288" stroke="#267CB3" stroke-width="2.7" stroke-linecap="round" marker-end="url(#a-blue)"/>
+</svg>

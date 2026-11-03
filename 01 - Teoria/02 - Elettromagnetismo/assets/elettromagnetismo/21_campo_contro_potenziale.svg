@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Campo E e potenziale V">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Campo E e potenziale V</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Il campo è un vettore, il potenziale è uno scalare: sono grandezze diverse.</text>
+<rect x="53" y="123" width="382" height="235" rx="12" fill="#E3F3FE" stroke="#D5E5EE" stroke-width="1.5"/>
+<rect x="465" y="123" width="382" height="235" rx="12" fill="#E7F6F3" stroke="#D5E5EE" stroke-width="1.5"/>
+<circle cx="151" cy="237" r="37" fill="#D65D5F"/>
+<text x="151" y="248" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="331" cy="237" r="8" fill="#19344D"/>
+<line x1="198" y1="235" x2="293" y2="235" stroke="#267CB3" stroke-width="5" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<text x="242" y="208" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#267CB3">E</text>
+<text x="331" y="268" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="True">P</text>
+<text x="243" y="328" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#19344D">Campo: modulo + verso</text>
+<circle cx="574" cy="237" r="37" fill="#D65D5F"/>
+<text x="574" y="248" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="741" cy="237" r="8" fill="#19344D"/>
+<text x="741" y="214" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#159B91">V(P)</text>
+<text x="650" y="329" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#19344D">Potenziale: un numero con segno</text>
+</svg>

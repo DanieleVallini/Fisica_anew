@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Cariche elettriche: due segni">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Cariche elettriche: due segni</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Protoni ed elettroni hanno cariche opposte; un corpo neutro ha carica netta nulla.</text>
+<rect x="55" y="113" width="250" height="244" rx="12" fill="#FFF3E1" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="180.0" y="147" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Positiva (+)</text>
+<rect x="326" y="113" width="250" height="244" rx="12" fill="#E3F3FE" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="451.0" y="147" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Negativa (−)</text>
+<rect x="597" y="113" width="250" height="244" rx="12" fill="#E7F6F3" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="722.0" y="147" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Neutra (0)</text>
+<circle cx="180" cy="222" r="35" fill="#D65D5F"/>
+<text x="180" y="234" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<text x="180" y="309" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">Protone: +e</text>
+<circle cx="451" cy="222" r="35" fill="#267CB3"/>
+<text x="451" y="234" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="451" y="309" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">Elettrone: −e</text>
+<circle cx="691" cy="212" r="19" fill="#D65D5F"/>
+<text x="691" y="224" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="743" cy="212" r="19" fill="#267CB3"/>
+<text x="743" y="224" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<circle cx="691" cy="260" r="19" fill="#D65D5F"/>
+<text x="691" y="272" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="743" cy="260" r="19" fill="#267CB3"/>
+<text x="743" y="272" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="723" y="323" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">Somma = 0</text>
+</svg>

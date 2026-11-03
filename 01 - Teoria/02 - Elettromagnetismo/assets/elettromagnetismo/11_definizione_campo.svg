@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Che cosa misura il campo elettrico?">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Che cosa misura il campo elettrico?</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Il campo esiste anche senza la carica di prova; quest’ultima serve per rilevarlo.</text>
+<rect x="60" y="118" width="779" height="240" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<circle cx="210" cy="238" r="48" fill="#D65D5F"/>
+<text x="210" y="249" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<text x="210" y="318" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">Sorgente Q positiva</text>
+<circle cx="575" cy="238" r="27" fill="#DE932E"/>
+<text x="575" y="247" font-family="DejaVu Sans, sans-serif" font-size="29" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<line x1="267" y1="209" x2="512" y2="209" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<line x1="615" y1="238" x2="753" y2="238" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<text x="387" y="190" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">Campo E</text>
+<text x="685" y="224" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D65D5F">Forza su q₀</text>
+<text x="575" y="317" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">Prova q₀ positiva</text>
+</svg>

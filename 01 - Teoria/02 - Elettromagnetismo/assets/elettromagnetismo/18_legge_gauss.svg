@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Legge di Gauss: conta la carica interna">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Legge di Gauss: conta la carica interna</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Il flusso netto attraverso una superficie chiusa dipende solo da Q interna.</text>
+<circle cx="302" cy="232" r="125" fill="#E5F5FC" stroke="#159B91" stroke-width="3"/>
+<circle cx="302" cy="232" r="38" fill="#D65D5F"/>
+<text x="302" y="243" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<line x1="352.0" y1="232.0" x2="413.0" y2="232.0" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="337.3553390593274" y1="267.3553390593274" x2="380.4888527117068" y2="310.4888527117068" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="302.0" y1="282.0" x2="302.0" y2="343.0" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="266.6446609406726" y1="267.3553390593274" x2="223.51114728829322" y2="310.4888527117068" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="252.0" y1="232.0" x2="191.0" y2="232.0" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="266.6446609406726" y1="196.64466094067262" x2="223.51114728829322" y2="153.51114728829322" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="302.0" y1="182.0" x2="302.0" y2="121.0" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="337.3553390593274" y1="196.64466094067262" x2="380.4888527117067" y2="153.51114728829322" stroke="#D65D5F" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-red)"/>
+<text x="302" y="385" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#159B91">Superficie gaussiana</text>
+<circle cx="685" cy="201" r="32" fill="#267CB3"/>
+<text x="685" y="212" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<text x="689" y="260" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">Carica esterna</text>
+<rect x="476" y="294" width="352" height="74" rx="12" fill="#E7F6F3" stroke="#B7DED8" stroke-width="1.5"/>
+<text x="652" y="324" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#159B91">Flusso netto = Qint / ε₀</text>
+<text x="652" y="349" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="400" text-anchor="middle" fill="#56718B">La carica esterna non cambia il flusso netto</text>
+</svg>

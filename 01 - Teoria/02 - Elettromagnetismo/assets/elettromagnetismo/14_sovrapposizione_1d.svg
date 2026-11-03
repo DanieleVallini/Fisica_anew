@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Sovrapposizione su una retta">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Sovrapposizione su una retta</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Nel punto P somma i campi con il loro segno, non solo i moduli.</text>
+<line x1="95" y1="250" x2="815" y2="250" stroke="#56718B" stroke-width="2" stroke-linecap="round" marker-end="url(#a-muted)"/>
+<circle cx="180" cy="250" r="35" fill="#D65D5F"/>
+<text x="180" y="261" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="725" cy="250" r="35" fill="#267CB3"/>
+<text x="725" y="261" font-family="DejaVu Sans, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<circle cx="386" cy="250" r="9" fill="#19344D"/>
+<text x="386" y="226" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="start" fill="True">P</text>
+<line x1="398" y1="194" x2="523" y2="194" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="398" y1="154" x2="602" y2="154" stroke="#267CB3" stroke-width="4" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<text x="528" y="185" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#D65D5F">E₁ verso destra</text>
+<text x="607" y="145" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#267CB3">E₂ verso destra</text>
+<text x="180" y="317" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">q₁ = +2 μC</text>
+<text x="725" y="317" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#19344D">q₂ = −2 μC</text>
+<text x="274" y="359" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">0,20 m</text>
+<text x="556" y="359" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#19344D">0,40 m</text>
+</svg>

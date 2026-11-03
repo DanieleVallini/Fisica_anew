@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Energia elettrica e aumento di velocità">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Energia elettrica e aumento di velocità</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Se il campo compie lavoro positivo, cresce l’energia cinetica della carica.</text>
+<rect x="58" y="115" width="784" height="245" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<rect x="121" y="150" width="23" height="158" rx="2" fill="#D65D5F"/>
+<rect x="757" y="150" width="23" height="158" rx="2" fill="#267CB3"/>
+<line x1="160" y1="178" x2="740" y2="178" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<line x1="160" y1="216" x2="740" y2="216" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<line x1="160" y1="254" x2="740" y2="254" stroke="#159B91" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<circle cx="255" cy="234" r="21" fill="#DE932E"/>
+<text x="255" y="241" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<line x1="293" y1="234" x2="567" y2="234" stroke="#D65D5F" stroke-width="4" stroke-linecap="round" marker-end="url(#a-red)"/>
+<line x1="568" y1="234" x2="697" y2="234" stroke="#D65D5F" stroke-width="7" stroke-linecap="round" marker-end="url(#a-red)"/>
+<text x="322" y="191" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#19344D">v iniziale</text>
+<text x="547" y="191" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#D65D5F">v finale maggiore</text>
+<text x="451" y="337" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#159B91">ΔK = q (V_i − V_f)  se agisce solo il campo</text>
+</svg>

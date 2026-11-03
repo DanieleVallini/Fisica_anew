@@ -970,7 +970,7 @@ Questo esercizio combina tre concetti:
 2. Il lavoro dell'attrito rappresenta energia meccanica dissipata.
 3. Il calore necessario per fondere una massa $m_f$ è $Q=m_f\lambda$.
 
-La parte relativa al calore latente sarà approfondita in [[Calore latente]].
+La parte relativa al calore latente sarà approfondita in [[2. Calore latente]].
 
 ---
 
@@ -1191,4 +1191,4 @@ Perché aumenta il modulo della decelerazione e quindi il corpo perde la propria
 - [[Equilibrio delle forze]]
 - [[Forza elastica]]
 - [[Lavoro energia e potenza]]
-- [[Calore latente]]
+- [[2. Calore latente]]

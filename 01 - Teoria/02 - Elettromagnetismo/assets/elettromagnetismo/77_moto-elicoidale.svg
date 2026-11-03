@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="DejaVu Sans, Arial, sans-serif" role="img" aria-label="Moto elicoidale di una carica">
+<defs>
+    <marker id="arrB" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#2563eb"/></marker>
+    <marker id="arrR" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#dc2626"/></marker>
+    <marker id="arrG" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#16a34a"/></marker>
+    <marker id="arrY" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#f59e0b"/></marker>
+    <marker id="arrP" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#7c3aed"/></marker>
+    <marker id="arrK" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#172339"/></marker>
+    </defs>
+<rect x="1" y="1" width="758" height="358" rx="18" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="26" y="35" font-size="22" font-weight="750" text-anchor="start" fill="#172339" >Moto elicoidale di una carica</text>
+<text x="26" y="57" font-size="13" font-weight="450" text-anchor="start" fill="#64748b" >Proiezione schematica: la componente parallela trasla e quella perpendicolare ruota.</text>
+<rect x="35" y="85" width="690" height="247" rx="12" fill="white" stroke="#cbd5e1" stroke-width="1"/><line x1="80" y1="230" x2="659" y2="230" stroke="#2563eb" stroke-width="3" stroke-linecap="round" marker-end="url(#arrB)"/><text x="661" y="216" font-size="19" font-weight="700" text-anchor="start" fill="#2563eb" >B</text><text x="120" y="144" font-size="17" font-weight="650" text-anchor="start" fill="#172339" >v∥ lungo B</text><line x1="180" y1="164" x2="295" y2="164" stroke="#059669" stroke-width="3" stroke-linecap="round" marker-end="url(#arrG)"/><text x="225" y="155" font-size="16" font-weight="700" text-anchor="start" fill="#059669" >v∥</text><path d="M 130 232 C 155 132 195 132 218 230 C 241 328 282 328 306 230 C 330 132 370 132 393 230 C 416 328 457 328 480 230 C 504 132 544 132 567 230 C 588 313 620 293 642 231" stroke="#dc2626" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="372" y="120" font-size="19" font-weight="700" text-anchor="middle" fill="#172339" >moto elicoidale</text><text x="381" y="311" font-size="17" font-weight="650" text-anchor="middle" fill="#172339" >Passo = v∥ · T</text>
+</svg>

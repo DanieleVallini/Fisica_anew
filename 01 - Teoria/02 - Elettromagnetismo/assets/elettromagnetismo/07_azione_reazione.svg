@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Azione e reazione: terza legge di Newton">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Azione e reazione: terza legge di Newton</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Le due forze hanno stesso modulo e verso opposto, ma agiscono su corpi differenti.</text>
+<circle cx="266" cy="213" r="43" fill="#D65D5F"/>
+<text x="266" y="225" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">+</text>
+<circle cx="636" cy="213" r="43" fill="#267CB3"/>
+<text x="636" y="225" font-family="DejaVu Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#FFFFFF">-</text>
+<line x1="317" y1="213" x2="424" y2="213" stroke="#159B91" stroke-width="4" stroke-linecap="round" marker-end="url(#a-teal)"/>
+<line x1="587" y1="213" x2="479" y2="213" stroke="#267CB3" stroke-width="4" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<text x="369" y="189" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">F₂→₁</text>
+<text x="530" y="189" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#267CB3">F₁→₂</text>
+<text x="266" y="286" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">Corpo 1</text>
+<text x="636" y="286" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#19344D">Corpo 2</text>
+<rect x="305" y="313" width="289" height="58" rx="12" fill="#E7F6F3" stroke="#B7DED8" stroke-width="1.5"/>
+<text x="450" y="348" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#159B91">F₁→₂ = −F₂→₁</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Conduttore in equilibrio elettrostatico">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Conduttore in equilibrio elettrostatico</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">All’interno E = 0 e V è costante; sulla superficie il campo è normale.</text>
+<circle cx="324" cy="235" r="109" fill="#E2F4FB" stroke="#19344D" stroke-width="3"/>
+<circle cx="430.0" cy="235.0" r="6" fill="#D65D5F"/>
+<line x1="448.0" y1="235.0" x2="480.0" y2="235.0" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="405.2007109706117" cy="303.1354866267732" r="6" fill="#D65D5F"/>
+<line x1="418.9895109467533" y1="314.7056636011309" x2="443.50293312656055" y2="335.2748671111001" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="342.4067068326946" cy="339.38962181929406" r="6" fill="#D65D5F"/>
+<line x1="345.5323740306994" y1="357.1161613735138" x2="351.08911571604114" y2="388.63000946990445" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="271.0" cy="326.79869280115054" r="6" fill="#D65D5F"/>
+<line x1="262.0" y1="342.38715006927043" x2="246.00000000000003" y2="370.09996299037243" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="224.39258219669372" cy="271.2541351925209" r="6" fill="#D65D5F"/>
+<line x1="207.47811502254737" y1="277.41049777238294" x2="177.40795115739832" y2="288.35514235880436" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="224.3925821966937" cy="198.7458648074791" r="6" fill="#D65D5F"/>
+<line x1="207.47811502254734" y1="192.5895022276171" x2="177.4079511573983" y2="181.6448576411957" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="270.99999999999994" cy="143.20130719884952" r="6" fill="#D65D5F"/>
+<line x1="261.99999999999994" y1="127.61284993072964" x2="245.99999999999994" y2="99.90003700962762" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="342.40670683269457" cy="130.61037818070594" r="6" fill="#D65D5F"/>
+<line x1="345.5323740306993" y1="112.8838386264862" x2="351.0891157160411" y2="81.36999053009552" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<circle cx="405.2007109706117" cy="166.8645133732268" r="6" fill="#D65D5F"/>
+<line x1="418.9895109467532" y1="155.2943363988691" x2="443.50293312656055" y2="134.72513288889982" stroke="#267CB3" stroke-width="2.8" stroke-linecap="round" marker-end="url(#a-blue)"/>
+<text x="324" y="236" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#159B91">E = 0</text>
+<text x="324" y="264" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#159B91">V costante</text>
+<rect x="544" y="132" width="280" height="221" rx="12" fill="#F4F9FC" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="567" y="185" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#19344D">Sulla superficie:</text>
+<text x="567" y="223" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#159B91">V uguale ovunque</text>
+<text x="567" y="271" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#19344D">Fuori dal conduttore:</text>
+<text x="567" y="307" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#267CB3">E normale alla superficie</text>
+</svg>

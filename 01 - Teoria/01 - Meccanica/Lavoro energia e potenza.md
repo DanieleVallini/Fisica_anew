@@ -1376,7 +1376,7 @@ $$
 
 Nel caso di una macchina termica, il rendimento è il rapporto tra il lavoro utile prodotto e il calore assorbito dalla sorgente calda.
 
-Questo argomento sarà approfondito in [[Macchine termiche e Carnot]].
+Questo argomento sarà approfondito in [[7. Macchine termiche e Carnot]].
 
 ---
 
@@ -1592,4 +1592,4 @@ Al perielio, perché la distanza dal Sole è minima.
 - [[Potenziale elettrico]]
 - [[Corrente e legge di Ohm]]
 - [[Circuiti elettrici]]
-- [[Macchine termiche e Carnot]]
+- [[7. Macchine termiche e Carnot]]

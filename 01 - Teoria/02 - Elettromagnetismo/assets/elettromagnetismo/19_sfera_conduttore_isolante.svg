@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Sfera conduttrice e sfera isolante">
+<defs>
+<marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#267CB3"/></marker>
+<marker id="a-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#159B91"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#D65D5F"/></marker>
+<marker id="a-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#DE932E"/></marker>
+<marker id="a-navy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#19344D"/></marker>
+<marker id="a-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#56718B"/></marker>
+</defs>
+<rect x="0" y="0" width="900" height="420" rx="16" fill="#F8FBFF"/>
+<rect x="18" y="18" width="864" height="384" rx="14" fill="#FFFFFF" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="40" y="56" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#19344D">Sfera conduttrice e sfera isolante</text>
+<text x="40" y="83" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#56718B">Con stessa carica Q e raggio R: il campo all’interno è differente.</text>
+<rect x="54" y="117" width="378" height="240" rx="11" fill="#E3F3FE" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="243" y="152" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Conduttrice</text>
+<text x="243" y="339" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#267CB3">E = 0 se r &lt; R</text>
+<circle cx="242" cy="245" r="76" fill="#F9FEFF" stroke="#19344D" stroke-width="2.6"/>
+<circle cx="316.0" cy="245.0" r="6" fill="#D65D5F"/>
+<circle cx="294.32590180780454" cy="297.3259018078045" r="6" fill="#D65D5F"/>
+<circle cx="242.0" cy="319.0" r="6" fill="#D65D5F"/>
+<circle cx="189.6740981921955" cy="297.32590180780454" r="6" fill="#D65D5F"/>
+<circle cx="168.0" cy="245.0" r="6" fill="#D65D5F"/>
+<circle cx="189.67409819219546" cy="192.6740981921955" r="6" fill="#D65D5F"/>
+<circle cx="242.0" cy="171.0" r="6" fill="#D65D5F"/>
+<circle cx="294.3259018078045" cy="192.67409819219546" r="6" fill="#D65D5F"/>
+<text x="242" y="252" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#159B91">E = 0</text>
+<rect x="466" y="117" width="378" height="240" rx="11" fill="#FFF3E1" stroke="#D5E5EE" stroke-width="1.5"/>
+<text x="655" y="152" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#19344D">Isolante uniforme</text>
+<text x="655" y="339" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D65D5F">E cresce ∝ r se r &lt; R</text>
+<circle cx="654" cy="245" r="76" fill="#F9FEFF" stroke="#19344D" stroke-width="2.6"/>
+<circle cx="675.0115455257799" cy="254.3549427907434" r="3.2" fill="#D65D5F"/>
+<circle cx="656.404154655156" cy="267.87400359347026" r="3.2" fill="#D65D5F"/>
+<circle cx="635.3926091293762" cy="258.51906080272687" r="3.2" fill="#D65D5F"/>
+<circle cx="632.9884544742201" cy="235.6450572092566" r="3.2" fill="#D65D5F"/>
+<circle cx="651.595845344844" cy="222.1259964065297" r="3.2" fill="#D65D5F"/>
+<circle cx="672.6073908706238" cy="231.4809391972731" r="3.2" fill="#D65D5F"/>
+<circle cx="701.9292324359565" cy="255.18767285007021" r="3.2" fill="#D65D5F"/>
+<circle cx="690.4140964483923" cy="277.78739971158404" r="3.2" fill="#D65D5F"/>
+<circle cx="669.1418327243724" cy="291.6017692984625" r="3.2" fill="#D65D5F"/>
+<circle cx="643.8123271499298" cy="292.92923243595646" r="3.2" fill="#D65D5F"/>
+<circle cx="621.212600288416" cy="281.41409644839234" r="3.2" fill="#D65D5F"/>
+<circle cx="607.3982307015375" cy="260.1418327243724" r="3.2" fill="#D65D5F"/>
+<circle cx="606.0707675640435" cy="234.8123271499298" r="3.2" fill="#D65D5F"/>
+<circle cx="617.5859035516077" cy="212.21260028841596" r="3.2" fill="#D65D5F"/>
+<circle cx="638.8581672756276" cy="198.39823070153747" r="3.2" fill="#D65D5F"/>
+<circle cx="664.1876728500702" cy="197.07076756404354" r="3.2" fill="#D65D5F"/>
+<circle cx="686.787399711584" cy="208.58590355160766" r="3.2" fill="#D65D5F"/>
+<circle cx="700.6017692984625" cy="229.8581672756276" r="3.2" fill="#D65D5F"/>
+<circle cx="724.1258721822547" cy="256.1068470178564" r="3.2" fill="#D65D5F"/>
+<circle cx="714.5374516691405" cy="282.0973980948324" r="3.2" fill="#D65D5F"/>
+<circle cx="695.7327529127656" cy="302.44020660062125" r="3.2" fill="#D65D5F"/>
+<circle cx="670.5746208337692" cy="314.03826434823503" r="3.2" fill="#D65D5F"/>
+<circle cx="642.8931529821436" cy="315.12587218225474" r="3.2" fill="#D65D5F"/>
+<circle cx="616.9026019051677" cy="305.5374516691405" r="3.2" fill="#D65D5F"/>
+<circle cx="596.5597933993787" cy="286.7327529127656" r="3.2" fill="#D65D5F"/>
+<circle cx="584.9617356517649" cy="261.5746208337693" r="3.2" fill="#D65D5F"/>
+<circle cx="583.8741278177453" cy="233.89315298214362" r="3.2" fill="#D65D5F"/>
+<circle cx="593.4625483308595" cy="207.90260190516764" r="3.2" fill="#D65D5F"/>
+<circle cx="612.2672470872344" cy="187.55979339937875" r="3.2" fill="#D65D5F"/>
+<circle cx="637.4253791662308" cy="175.96173565176497" r="3.2" fill="#D65D5F"/>
+<circle cx="665.1068470178564" cy="174.8741278177452" r="3.2" fill="#D65D5F"/>
+<circle cx="691.0973980948323" cy="184.46254833085948" r="3.2" fill="#D65D5F"/>
+<circle cx="711.4402066006213" cy="203.2672470872344" r="3.2" fill="#D65D5F"/>
+<circle cx="723.0382643482351" cy="228.42537916623073" r="3.2" fill="#D65D5F"/>
+<line x1="654" y1="245" x2="708" y2="245" stroke="#D65D5F" stroke-width="3" stroke-linecap="round" marker-end="url(#a-red)"/>
+</svg>
